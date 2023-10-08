@@ -457,6 +457,11 @@
   margin-bottom: 9.6rem;
 }
 
+.plan-details span {
+  font-size: 2rem;
+  color: var(--primary-color);
+}
+
 .feature-icon {
   width: 3.2rem;
   height: 3.2rem;
